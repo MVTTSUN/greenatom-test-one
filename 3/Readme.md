@@ -39,4 +39,4 @@ npm run build
 
 ## Ссылка на дэплой проекта
 
-[Vercel](https://mvttsun.github.io/mesto-react/)
+[Vercel](https://greenatom-test-one-aquf.vercel.app)
